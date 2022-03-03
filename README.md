@@ -20,9 +20,9 @@ passionate about Cybersecurity, Strategy, Innovation, Design and of course drivi
 
 ## 🏓 Get In Touch On ...
 
-[![](https://img.shields.io/badge/@dan_breu-informational?style=flat&logo=instagram&logoColor=white&color=8134af)](https://www.instagram.com/dan_breu/)
+[![](https://img.shields.io/badge/@dan_breu-informational?style=flat&logo=instagram&logoColor=white&color=8134af)](https://www.instagram.com/dnsbreu/)
 [![](https://img.shields.io/badge/@dan-breu-informational?style=flat&logo=github&logoColor=white&color=black)](https://github.com/dan-breu)
-[![](https://img.shields.io/badge/@dan_breu-informational?style=flat&logo=twitter&logoColor=white)](https://twitter.com/dan_breu)
+[![](https://img.shields.io/badge/@dan_breu-informational?style=flat&logo=twitter&logoColor=white)](https://twitter.com/dnsbreu)
 
 ## 📈 Github Stats ...
 
