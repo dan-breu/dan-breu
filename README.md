@@ -1,8 +1,8 @@
 <img src="https://lh3.googleusercontent.com/-BgFm1jh0P6c/YASDFTNgtzI/AAAAAAAAOR4/TBb0CEV6a04DX7TmPoCwm-e6DuEiDNj1gCLcBGAsYHQ/s16000/DanIntroLive.png">
 
-## Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
+## Hi There! 👋,
 
-I'm Danilo Briceño A.K.A **[@dnsbreu](https://www.instagram.com/dnsbreu/)**, 
+I'm Danilo Briceño A.K.A DanBreu , **[@dnsbreu](https://twitter.com/dnsbreu/)**, 
 passionate about Cybersecurity, Strategy, Innovation, Design and of course driving. open source & programming.
 
 🏄‍♂️.
