@@ -3,10 +3,9 @@
 I'm Danilo Briceño A.K.A DanBreu , **[@dnsbreu](https://twitter.com/dnsbreu/)**, 
 passionate about Cybersecurity, Strategy, Innovation, Design and of course driving. open source & programming.
 
-🏄‍♂️.
-
 - 🔭 I’m currently working at **_Infosec Company_**.
-- 🌱 I’m currently learning Javascript, Python, CSS, HTML and PHP.
+- 🌱 I’m currently learning Javascript, Python, CSS and DevSecOps.
+- 🚀 I’m currently building [EKIS](https://ekis.consulting).
 
 
 ## 🔧 Technologies & Tools ...
