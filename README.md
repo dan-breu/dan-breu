@@ -1,6 +1,6 @@
 ## Hi There! 👋,
 
-I'm Danilo Briceño A.K.A DanBreu , **[@dnsbreu](https://twitter.com/dnsbreu/)**, 
+I'm Danilo Briceño A.K.A DanBreu , **[@dan_breu](https://twitter.com/dan_breu/)**, 
 passionate about Cybersecurity, Strategy, Innovation, Design and of course driving. open source & programming.
 
 - 🔭 I’m currently working at **_Infosec Company_**.
@@ -17,9 +17,8 @@ passionate about Cybersecurity, Strategy, Innovation, Design and of course drivi
 
 ## 🏓 Get In Touch On ...
 
-[![](https://img.shields.io/badge/@dan_breu-informational?style=flat&logo=instagram&logoColor=white&color=8134af)](https://www.instagram.com/dnsbreu/)
 [![](https://img.shields.io/badge/@dan-breu-informational?style=flat&logo=github&logoColor=white&color=black)](https://github.com/dan-breu)
-[![](https://img.shields.io/badge/@dan_breu-informational?style=flat&logo=twitter&logoColor=white)](https://twitter.com/dnsbreu)
+[![](https://img.shields.io/badge/@dan_breu-informational?style=flat&logo=twitter&logoColor=white)](https://twitter.com/dan_breu)
 
 ## 📈 Github Stats ...
 
